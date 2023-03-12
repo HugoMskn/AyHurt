@@ -1,2 +1,3 @@
 # AyHurt
-Preview : ![](GUIPREV.mp4)
+Preview : [Click Here](https://github.com/HugoMskn/AyHurt/blob/main/GUIPREV.mp4)
+
